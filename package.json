@@ -1,11 +1,11 @@
 {
-  "name": "mantis-material-free-react",
-  "version": "4.0.0",
-  "homepage": "https://mantisdashboard.com/free",
+  "name": "healthscore-bureau",
+  "version": "1.0.0",
+  "homepage": "https://healthscorebureau.com",
   "author": {
-    "name": "CodedThemes",
-    "email": "codedthemes@gmail.com",
-    "url": "https://codedthemes.com/"
+    "name": "HealthScore Bureau",
+    "email": "info@healthscorebureau.com",
+    "url": "https://healthscorebureau.com"
   },
   "scripts": {
     "start": "vite",
@@ -32,11 +32,13 @@
     "framer-motion": "12.23.24",
     "lodash-es": "4.17.21",
     "react": "19.2.0",
+    "react-circular-progressbar": "^2.2.0",
     "react-device-detect": "2.2.3",
     "react-dom": "19.2.0",
     "react-number-format": "5.4.4",
     "react-router": "7.9.4",
     "react-router-dom": "7.9.4",
+    "recharts": "^3.3.0",
     "simplebar-react": "3.3.2",
     "swr": "2.3.6",
     "vite": "7.1.9",
